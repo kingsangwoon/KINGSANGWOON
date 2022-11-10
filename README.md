@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
 <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/-Docker--compose-red" /></span>
-<span><img src="https://img.shields.io/badge/Kubernetes-#326CE5?style=flat&logo=Kubernetes&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" /></span>
 
